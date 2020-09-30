@@ -1,7 +1,11 @@
 vikramtiwari.github.io
 ======================
 
-Github repo for Vikram Tiwari's Website
+# Welcome To Vikram Tiwari's Website  
+
+
+# Information About GitHub :
+Github is a web-based platform used for version control. Git simplifies the process of working with other people and makes it easy to collaborate on projects. Team members can work on files and easily merge their changes in with the master branch of the project.
 
 ## How to get your own?
 1. Fork the repo
